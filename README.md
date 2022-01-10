@@ -101,5 +101,10 @@ absolute | 위치 상 부모 요소 | x
 fixed | 뷰포트 | x
 
 # 원시 HTML(Raw HTML)
-동해물과 <span style="text-decoration: underline;">백두산</span>이 마르고 닳도록  
+동해물과 <span style="text-decoration: underline;"><u>백두산</u></span>이 마르고 닳도록  
 하느님이 보우하사 우리나라 만세
+
+# 수평선
+---
+***
+___
